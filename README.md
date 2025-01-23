@@ -5,5 +5,5 @@
 ## INFO / INFORMACIÓN
 
 ### Qué és?
-Este sencillo SDK (*Software Development Kit*) dedicado para el software LliureX (recomendada una versión superior a la 21.2023) esta dedicado al desarollo de applicaciones de escritorio sencillas para introducir a nuevos programadores en el mundo del *IT*.
+Este sencillo SDK (*Software Development Kit*) dedicado para el software LliureX (recomendada una versión superior a la 21.2023) esta dedicado al desarollo de applicaciones de escritorio sencillas para introducir a nuevos programadores en este sector.
 
