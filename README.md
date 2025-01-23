@@ -34,7 +34,7 @@ En este SDK hay más de 30 tareas para mejorar tus habilidades de programación.
 ### Steps to install PYSH.SDK  
 **Step 1:** Copy the *.zip* file and paste it into the personal folder (*/home*).  
 **Step 2:** Right-click on the *.zip* file and select the option to extract it. (*NOTE: Make sure not to rename the folder to avoid affecting the program.*)  
-**Step 3:** Open *konsole* and type **cd pysh-v0.0.1** (make sure that que version name that you type is the same as the one shown in the folder), then press enter.  
+**Step 3:** Open *konsole* and type **cd pysh-v0.0.1** (make sure that que version name you type is the same as the one shown in the folder), then press enter.  
 **Step 4:** Type **"./ intall.sh"** and let the program do its magic.
 
 ---------------------------------------------------------------------
