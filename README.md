@@ -25,3 +25,7 @@ Puedes generar entre 5 plantillas ya mediamente programadas para que sea más f�
 
 **TAREAS**  
 En este SDK hay más de 30 tareas para mejorar tus habilidades de programación. Puedes generar fácilmente una tarea en tu escritorio, que deberas de completar programando, organizando y planteando para obtener el resultado que el ejecicio te pida. El nivel de dificultad va siendo mayor conforme progreses.
+
+## INSTALATION / INSTALACIÓN
+
+Descarga la versión más reciente del SDK aquí: [v0.0.1](https://github.com/wonnd3r/PYSH.SDK/)
