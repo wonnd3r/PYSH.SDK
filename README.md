@@ -38,7 +38,7 @@ En este SDK hay más de 30 tareas para mejorar tus habilidades de programación.
 
 ---------------------------------------------------------------------
 
-Descarga la versión más reciente del SDK aquí:  
+### Descarga la versión más reciente del SDK aquí:  
 [v0.0.1](https://github.com/wonnd3r/PYSH.SDK/) - 1/23/2025 (más nueva)
 
 ### Pasos para instalar PYSH.SDK
