@@ -8,10 +8,10 @@
 This simple SDK (Software Development Kit), designed for the LliureX software (recommended version 21.2023 or higher), is dedicated to developing simple desktop applications to introduce new programmers to this field.
 
 ### What does it include?
-**TEMPLATES**
+**TEMPLATES**  
 You can choose from 5 pre-programmed templates to make it easier to start developing an app.
 
-**TASKS**
+**TASKS**  
 This SDK offers more than 30 tasks to improve your programming skills. You can easily generate a task on your desktop, which you must complete by programming, organizing, and planning to achieve the result requested by the exercise. The difficulty level increases as you progress.
 
 ---------------------------------------------------------------------
