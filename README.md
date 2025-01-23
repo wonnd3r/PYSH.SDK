@@ -32,7 +32,7 @@ En este SDK hay más de 30 tareas para mejorar tus habilidades de programación.
 [v0.0.1](https://github.com/wonnd3r/PYSH.SDK/) - 1/23/2025 (latest)
 
 ### Steps to install PYSH.SDK  
-**Step 1:** Copy the *.zip* file and paste it into a personal folder (*/home*).  
+**Step 1:** Copy the *.zip* file and paste it into the personal folder (*/home*).  
 **Step 2:** Right-click on the *.zip* file and select the option to extract it. (*NOTE: Make sure not to rename the folder to avoid affecting the program.*)  
 **Step 3:** ***WIP***
 
@@ -42,7 +42,7 @@ En este SDK hay más de 30 tareas para mejorar tus habilidades de programación.
 [v0.0.1](https://github.com/wonnd3r/PYSH.SDK/) - 1/23/2025 (más nueva)
 
 ### Pasos para instalar PYSH.SDK
-**Paso 1:** Copia el *.zip* y pégalo en un carpeta personal (*/home*).  
+**Paso 1:** Copia el *.zip* y pégalo en la carpeta personal (*/home*).  
 **Paso 2:** Haz click derecho en el *.zip* y selecciona la opción de descomprimir. (*ATENCIÓN: Procura no cambiar el nombre de la carpeta para no alterar el programa.*)  
 **Paso 3:** ***WIP***
 
