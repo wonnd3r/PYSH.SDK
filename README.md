@@ -1,1 +1,1 @@
-# PYSH.SDK
+# PYSH.SDK (Python and Shell SDK)
