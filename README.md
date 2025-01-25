@@ -1,4 +1,4 @@
-# PYSH.SDK (Python and Shell SDK) 
+# PYSH.SDK 🐧 (Python and Shell SDK) 
 **Dedicated to LliureX**  
 *By: wonnd3r*
 
