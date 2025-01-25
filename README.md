@@ -6,7 +6,7 @@
 ## TABLE OF CONTENTS / TABLA DE CONTENIDO
 - [What is it?](#what-is-it)
 - [Features](#what-does-it-include)
-- [Installation](#info--información)
+- [Installation](#instalation--instalación)
 
 ## INFO / INFORMACIÓN
 
