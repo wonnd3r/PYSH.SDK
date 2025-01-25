@@ -5,10 +5,8 @@
 
 ## TABLE OF CONTENTS / TABLA DE CONTENIDO
 - [What is it?](#what-is-it)
-- [Features](#features)
-- [Installation](#installation)
-- [Contribute](#contribute)
-
+- [Features](#what-does-it-include)
+- [Installation](##INSTALATION-/-INSTALACIÓN)
 
 ## INFO / INFORMACIÓN
 
