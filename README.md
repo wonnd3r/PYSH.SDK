@@ -3,6 +3,13 @@
 ***Project state: indev***  
 *By: wonnd3r*
 
+## TABLE OF CONTENTS / TABLA DE CONTENIDO
+- [What is it?](#what-is-it)
+- [Features](#features)
+- [Installation](#installation)
+- [Contribute](#contribute)
+
+
 ## INFO / INFORMACIÓN
 
 ### What is it?
