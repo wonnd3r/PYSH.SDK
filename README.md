@@ -49,7 +49,7 @@ En este SDK hay más de 30 tareas para mejorar tus habilidades de programación.
 **Paso 1:** Copia el *.zip* y pégalo en la carpeta personal (*/home*).  
 **Paso 2:** Haz click derecho en el *.zip* y selecciona la opción de descomprimir. (*ATENCIÓN: Procura no cambiar el nombre de la carpeta para no alterar el programa.*)  
 **Paso 3:** Abre *konsole* y escribe **"cd pysh-v0.0.1"** (revisa que el nombre la versión que escribes sea igual que la de la carpeta), luego presiona enter.  
-**Paso 4:** Escribe **". install.sh"** y deja el programa hacer su magia.
+**Paso 4:** Escribe **". install.sh"** y deja el programa hacer su magia.  
 **Paso 5:** Una vez instalado, cierra la ventana.  
 **Paso 6:** Abre *konsole* de nuevo y escribe **"cd pyh-v0.0.1"**.  
 **Paso 7:** Escribe **". start.sh"**.
