@@ -1,5 +1,6 @@
 # PYSH.SDK 🐧 (Python and Shell SDK) 
-**Dedicated to LliureX (23)**  
+**Dedicated to LliureX (23)**
+***Project state: indev***
 *By: wonnd3r*
 
 ## INFO / INFORMACIÓN
