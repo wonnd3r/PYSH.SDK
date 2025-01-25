@@ -38,8 +38,11 @@ En este SDK hay más de 30 tareas para mejorar tus habilidades de programación.
 **Step 3:** Open *konsole* and type **"cd pysh-v0.0.1"** (make sure that que version name you type is the same as the one shown in the folder), then press enter.  
 **Step 4:** Type **". intall.sh"** and let the program do its magic.  
 **Step 5:** Once installed, close the window.  
-**Step 6:** Open *konsole* again and type **"cd pysh-v0.0.1"**.  
-**Step 7:** Type **". start.sh"**.
+**Step 6:** Open *konsole* again and follow these commands:
+  ```bash
+cd pysh-v0.0.1
+. start.sh
+```
 
 ---------------------------------------------------------------------
 
@@ -52,6 +55,9 @@ En este SDK hay más de 30 tareas para mejorar tus habilidades de programación.
 **Paso 3:** Abre *konsole* y escribe **"cd pysh-v0.0.1"** (revisa que el nombre la versión que escribes sea igual que la de la carpeta), luego presiona enter.  
 **Paso 4:** Escribe **". install.sh"** y deja el programa hacer su magia.  
 **Paso 5:** Una vez instalado, cierra la ventana.  
-**Paso 6:** Abre *konsole* de nuevo y escribe **"cd pyh-v0.0.1"**.  
-**Paso 7:** Escribe **". start.sh"**.
+**Paso 6:** Abre *konsole* de nuevo y sigue estos comandos:
+  ```bash
+cd pysh-v0.0.1
+. start.sh
+```
 
