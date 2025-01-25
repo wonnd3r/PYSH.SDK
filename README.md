@@ -1,5 +1,5 @@
 # PYSH.SDK 🐧 (Python and Shell SDK) 
-**Dedicated to LliureX**  
+**Dedicated to LliureX (23)**  
 *By: wonnd3r*
 
 ## INFO / INFORMACIÓN
