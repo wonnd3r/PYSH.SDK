@@ -5,7 +5,7 @@
 ## INFO / INFORMACIÓN
 
 ### What is it?
-This simple SDK (Software Development Kit), designed for the LliureX software (recommended version 21.2023 or higher), is dedicated to developing simple desktop applications to introduce new programmers to this field.
+This simple SDK (Software Development Kit), designed for the LliureX O.S. (recommended version 21.2023 or higher), is dedicated to developing simple desktop applications to introduce new programmers to this field.
 
 ### What does it include?
 **TEMPLATES**  
