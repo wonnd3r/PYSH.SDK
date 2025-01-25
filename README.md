@@ -38,7 +38,7 @@ En este SDK hay más de 30 tareas para mejorar tus habilidades de programación.
 **Step 4:** Type **". intall.sh"** and let the program do its magic.  
 **Step 5:** Once installed, close the window.  
 **Step 6:** Open *konsole* again and type **"cd pysh-v0.0.1"**.  
-**Step 7:** Type **"./start.sh"**.
+**Step 7:** Type **". start.sh"**.
 
 ---------------------------------------------------------------------
 
