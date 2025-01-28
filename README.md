@@ -78,9 +78,9 @@ The program identifies as plugins any folder located inside *plugins* that has a
  ```
 pysh-v0.0.1
 |
-|_plugins
+|_ plugins
    |
-   |_miplugin.PYSH
+   |_ miplugin.PYSH
       |
-      |_main.py
+      |_ main.py
 ```
