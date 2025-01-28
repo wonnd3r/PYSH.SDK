@@ -65,4 +65,22 @@ cd pysh-v0.0.1
 cd pysh-v0.0.1
 . start.sh
 ```
+# PYSH.SDK Plugin Creation 🔌
+*version: v0.1*
 
+## BASIC INFO
+
+### Does Pysh support plugins?
+Absolutely, inside the main SDK directory, there is a folder called *plugins* where your own plugins or others created by the community are stored.
+
+### How to create a plugin?
+The program identifies as plugins any folder located inside *plugins* that has a file called *main.py* inside it. Every time the program is started, PYSH will execute all main.py that follow the syntax above.
+ ```
+pysh-v0.0.1
+|
+|_plugins
+   |
+   |_miplugin.PYSH
+      |
+      |_main.py
+```
