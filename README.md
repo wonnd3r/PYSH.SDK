@@ -80,7 +80,7 @@ pysh-v0.0.1
 |
 |_ plugins
    |
-   |_ miplugin.PYSH
+   |_ miplugin.PYSH (folder)
       |
       |_ main.py
 ```
